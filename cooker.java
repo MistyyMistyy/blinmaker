@@ -1,4 +1,4 @@
-// hello and welcome to my first java project, i'm simply going to upload this as a .doc file to GitHub.
+
 package blinmaker;
 
 import java.util.Scanner;
